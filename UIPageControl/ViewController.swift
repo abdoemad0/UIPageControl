@@ -21,3 +21,10 @@ class ViewController: UIViewController {
     }
 }
 
+    
+
+}
+
+struct Scene{
+    let fuck : String
+}
